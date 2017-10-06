@@ -1,0 +1,93 @@
+VISUAL CERTEXAM SUITE END USER LICENSE AGREEMENT
+======================================================================
+
+This End-User License Agreement ("EULA")  is a legal agreement between
+you and Avanset, please read it carefully.
+
+YOU  AGREE TO  BE BOUND BY  THE TERMS OF THIS  EULA BY INSTALLING THIS
+PRODUCT.  IF  YOU  DO  NOT  AGREE WITH  ANY OF THE FOLLOWING TERMS AND
+CONDITIONS,  DO  NOT  INSTALL  THE   SOFTWARE.  USING  ANY PART OF THE
+SOFTWARE  INDICATES THAT  YOU ACCEPT THESE TERMS.
+
+The  Software  is protected by  applicable national copyright laws and
+international  copyright  treaties,  as  well  as  other  intellectual
+property  laws  and  treaties. The Software  is  licensed,  not  sold.
+Visual  CertExam  Sofware  retains  all  the  rights,  which  are  not
+expressly  granted to  You according to the present License Agreement.
+
+
+TRIAL VERSION
+----------------------------------------------------------------------
+The trial  version of  Visual  CertExam Suite may be  used  for  trial
+purposes at the user's own risk for a period  of 30 days from the date
+of installation. At the end of the trial period, the user  must either
+purchase a license to  continue using Visual CertExam Suite, or remove
+it from his/her computer.
+
+The   trial   version  may  be   freely   distributed,   provided  the 
+distribution package is not modified.  No person or company may charge
+a fee for the distribution of Visual CertExam Suite.
+
+
+LICENSED VERSION
+----------------------------------------------------------------------
+Once  registered,  the  user  is  granted  a  limited,  non-exclusive,
+non-transferable,  non-assignable license to use Visual CertExam Suite
+on as many computers as defined by the licensing terms below according
+to  the  number  of  licenses  purchased,  for any legal purpose.  The
+registered Visual CertExam Suite software may not be rented or leased.
+
+There are 3 basic types of licenses issued for  Visual CertExam Suite,
+these are:
+
+1. Personal  License.   You  may  install the software  on a single or
+   multiple computers for personal use only.
+
+2. Company License.  You  may  install  and  use  the  software  on an
+   unlimited number of computers within your company or organization.
+
+
+TERMS OF USE
+----------------------------------------------------------------------
+When you purchase Visual CertExam Suite,  the  "Registration Code"  is
+being issued to you.  This "Registration Code" can only be used by the
+individual (or entity)  purchased it and should not be shared with the
+other individuals (parties).  Any  distribution  of  the "Registration
+Code"  shall  result  in  immediate  and  automatic termination of the
+rights granted in this EULA.
+
+There  are  no  additional  license  fees,  apart  from  the  cost  of
+registration,  associated with the creation and distribution of Visual
+CertExam Suite  exam  files.  Legally  registered owners may use their
+copies  of  Visual  CertExam  Suite  to  produce  exam  files  and  to
+distribute those files free of any additional royalties.
+
+You may not use,  copy,  emulate,  clone,  rent,  lease, sell, modify,
+decompile,  disassemble, otherwise  reverse engineer,  or transfer the
+licensed program,  or any subset  of the  licensed  program.  Any such
+unauthorized  use shall result in immediate and automatic  termination
+of this license and may result in criminal and/or civil prosecution.
+
+DISCLAIMER OF WARRANTY:  THE SOFTWARE IS PROVIDED TO YOU AT NO CHARGE.
+YOU     AGREE     THAT      AVANSET     HAS      MADE     NO   EXPRESS
+WARRANTIES,  ORAL OR WRITTEN,  TO  YOU REGARDING THE PRODUCTS AND THAT
+THE PRODUCTS ARE BEING PROVIDED TO YOU "AS IS" WITHOUT WARRANTY OF ANY
+KIND.   AVANSET    DISCLAIMS    ANY   AND   ALL   OTHER    WARRANTIES,
+WHETHER  EXPRESSED,  IMPLIED,  OR STATUTORY,  INCLUDING,  BUT  WITHOUT
+LIMITATION,  THE IMPLIED  WARRANTIES OF NONINFRINGEMENT OF THIRD PARTY
+RIGHTS, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE. AVANSET
+SHALL  NOT  BE  LIABLE   FOR   INDIRECT,  INCIDENTAL, SPECIAL,  COVER,
+RELIANCE,  OR  CONSEQUENTIAL  DAMAGES  (INCLUDING, BUT NOT LIMITED TO,
+LOSS OF  ANTICIPATED  PROFIT)  ARISING FROM ANY CAUSE UNDER OR RELATED
+TO THIS AGREEMENT.
+
+The terms of this license  are  subjects of changes in future versions
+of Visual CertExam Suite.  If you do not agree  with the terms of this
+license you must remove  Visual CertExam Suite files from your storage
+devices and cease to use the product.
+
+Thank you for using Visual CertExam Suite!
+
+Avanset
+Web:	http://www.avanset.com
+E-mail:	support@avanset.com
